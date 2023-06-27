@@ -1,0 +1,9 @@
+University Network                                                                                                                                           November’21 
+
+---> Created a regional network of university in Cisco Packet Tracer using subnetting to give IP Addresses across all networks. 
+
+---> Devised RIP Routing to connect departments to main building and Static Routing to interconnect department networks. 
+
+---> Connected computers within same department through VLANs and used WLANs to connect all the departments.  
+
+---> Utilized 4 types of Servers - FTP Server, DNS Server, DHCP Server, HTTP Server in different Networks.
